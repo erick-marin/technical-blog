@@ -1,0 +1,11 @@
+# Vagrant files
+.vagrant
+setup.sh
+Vagrantfile
+yarn.lock
+
+# AWS private key
+*.pem
+
+# Log files (if you are creating logs in debug mode, uncomment this)
+# *.log
