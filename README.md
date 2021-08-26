@@ -1,17 +1,12 @@
-# Alto
+# Technical-Blog
 
-A clean, minimalist theme featuring a light and dark mode. Launch your online publications with flair. Completely free and fully responsive, released under the MIT license.
+A clean, minimalist theme featuring a light and dark mode based on the Alto theme. Launch your online publications with flair. Completely free and fully responsive, released under the MIT license.
 
-**Demo: https://alto.ghost.io**
+**Demo: https://erickmarin.engineer**
 
 &nbsp;
 
-# Instructions
-
-1. [Download this theme](https://github.com/TryGhost/Alto/archive/master.zip)
-2. Log into Ghost, and go to the `Design` settings area to upload the zip file
-
-# White Logo
+## White Logo
 
 If your logo image isn't recognizable in dark mode, you can set a white version of the logo in `Code injection > Site Header` field.
 
