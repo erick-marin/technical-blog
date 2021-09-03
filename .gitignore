@@ -6,6 +6,7 @@ yarn.lock
 
 # AWS private key
 *.pem
+*.ppk
 
 # Log files (if you are creating logs in debug mode, uncomment this)
 # *.log
